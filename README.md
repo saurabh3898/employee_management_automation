@@ -19,3 +19,7 @@ Introduce Cypress Automation in the existing App
 4. Start the local development server:
    ```
    npm run dev
+
+5. Start the cypress
+
+   npx cypress open
